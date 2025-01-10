@@ -12,3 +12,14 @@ in table there are rows and columns.
 #### 2. DML- Data Manipulation Language --> manipulates data within the tables 
 #### 3. DCL- Data Control Language --> control access to the data i.e permissions
 
+## DDL (Data definition language) :
+#### CREATE, ALTER, DROP    (DAC)
+CREATE --> to create a table
+ALTER --> to modift the existing table
+DROP --> to delete the table
+
+## DML (Data Manipulation Language):
+#### INSERT, SELECT UPDATE DELETE   (DUSI)
+
+## DCL (Data Control Language):
+#### GRANT, REVOKE  (GR)
