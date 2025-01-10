@@ -23,7 +23,7 @@ in table there are rows and columns.
 ##### INSERT --> to insert a new data
 ##### SELECT --> to retrieve from data
 ##### UPDATE --> to update the data
-##### DELETE --> to remove from data
+##### DELETE --> to remove data
 
 ## DCL (Data Control Language):
 #### GRANT, REVOKE  (GR)
