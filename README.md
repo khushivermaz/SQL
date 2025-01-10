@@ -14,12 +14,16 @@ in table there are rows and columns.
 
 ## DDL (Data definition language) :
 #### CREATE, ALTER, DROP    (DAC)
-CREATE --> to create a table
-ALTER --> to modift the existing table
-DROP --> to delete the table
+##### CREATE --> to create a table
+##### ALTER --> to modify an existing table
+##### DROP --> to delete the table
 
 ## DML (Data Manipulation Language):
-#### INSERT, SELECT UPDATE DELETE   (DUSI)
+#### INSERT, SELECT, UPDATE, DELETE   (DUSI)
+##### INSERT --> to insert a new data
+##### SELECT --> to retrieve from data
+##### UPDATE --> to update the data
+##### DELETE --> to remove from data
 
 ## DCL (Data Control Language):
 #### GRANT, REVOKE  (GR)
