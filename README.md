@@ -27,3 +27,5 @@ in table there are rows and columns.
 
 ## DCL (Data Control Language):
 #### GRANT, REVOKE  (GR)
+##### GRANT --> gives access to the user
+##### REVOKE --> to remove access
